@@ -1,0 +1,42 @@
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Padauk', sans-serif;
+  color: '#262626';
+}
+
+p, div, span {
+  font-family: 'Padauk', sans-serif;
+  color: '#262626';
+}
+
+.enTitleFont {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.enBodyFont {
+  font-family: 'Lato', sans-serif;
+}
+
+.mmBodyFont {
+  font-family: 'Padauk', sans-serif;
+  /* font-size: initial; */
+}
+
+.ContainerWrapper {
+  width: 100%;
+  max-width: 1400px;
+  /* background: red; */
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.v-slide-group__content {
+  transition: 0.2s cubic-bezier(0.25, 0.8, 0.5, 1) !important;
+}
+
+.lineHeight > span.v-btn__content {
+  line-height: 1rem !important;
+}

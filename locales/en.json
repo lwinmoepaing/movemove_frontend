@@ -1,0 +1,66 @@
+{
+  "links": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "english": "English version",
+    "myanmar": "Myanmar version"
+  },
+  "home": {
+    "title": "Welcome",
+    "introduction": "This is an introduction in English."
+  },
+  "about": {
+    "title": "About",
+    "introduction": "This page is made to give you more informations."
+  },
+  "contact": {
+    "title": "Contact",
+    "introduction": "Our Phone Number 09420059241"
+  },
+  "form": {
+    "login": "Login",
+    "password": "Password",
+    "register": "Register",
+    "email": "Email",
+    "submit": "Submit",
+    "createNew": "Create New",
+    "edit": "Edit"
+  },
+  "storyform": {
+    "label": "Create New Story",
+    "labelEdit": "Edit Story ",
+    "title": "Story Title",
+    "description": "Description",
+    "image": "Choose Image",
+    "category": "Category"
+  },
+  "storyTab": {
+    "character": "Character",
+    "storyMessage": "Story Message",
+    "attachment": "Attachment"
+  },
+  "author": {
+    "headerText": "Readmal Author Dashboard",
+    "storyList": "Latest Story List",
+    "welcomeText": "Welcome Readmal Author",
+    "episodeMonthlyCount": "Total Addable Episode"
+  },
+  "category": {
+    "horror": "Horror",
+    "comedy": "Comedy"
+  },
+  "episode": {
+    "number": "Episode Number",
+    "ispublished": "Is Published?",
+    "is_published_finished": "Finished Episode",
+    "limitation": "You need to add Billing to make more episode. Limited Episode is gone."
+  },
+  "episodeform": {
+    "label": "Create New Episode",
+    "labelEdit": "Edit Episode",
+    "title": "Episode Title",
+    "description": "Description",
+    "image": "Choose Image"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "links": {
+    "home": "ပင်မ",
+    "about": "အကြောင်းအရာ",
+    "contact": "ဆက်သွယ်ရန်",
+    "english": "အင်္ဂလိပ်ဗားရှင်း",
+    "myanmar": "မြန်မာဗျားရှင်း"
+  },
+  "home": {
+    "title": "မင်္ဂလာပါ",
+    "introduction": "စတင်မိတ်ဆက်ခြင်း"
+  },
+  "about": {
+    "title": "ကျွန်ုပ်တို့အကြောင်းအရာ",
+    "introduction": "အကြောင်းအရာ မိတ်ဆက်ခြင်း"
+  },
+  "contact": {
+    "title": "ဆက်သွယ်ရန်",
+    "introduction": "ကျွနု်ပ်တို့ကိုဆက်သွယ်ရန် ၀၉၄၂၀၀၅၉၂၄၁ သို့ဆက်သွယ်ပေးပါ"
+  },
+  "form": {
+    "login": "အကောင့်ဝင်မည်",
+    "password": "စကားဝှက်",
+    "register": "အကောင့်ပြုလုပ်မည်",
+    "email": "အီးမေးလ်လိပ်စာ",
+    "submit": "ပြုလုပ်မည်",
+    "createNew": "အသစ်ပြုလုပ်မည်",
+    "edit": "ပြင်ဆင်မည်"
+  },
+  "storyform": {
+    "label": "Story အသစ်ပြုလုပ်မည်",
+    "labelEdit": "Story ပြင်ဆင်မည်",
+    "title": "Story ခေါင်းစဉ်",
+    "description": "အကြောင်းအရာအကျဉ်းချုပ်",
+    "image": "ပုံရွေးတင်မယ်",
+    "category": "စာပေအမျိုးအစား"
+  },
+  "storyTab": {
+    "character": "ဇာတ်ကောင်များ",
+    "storyMessage": "စာသားထည့်ရန်",
+    "attachment": "ပူးတွဲဖိုင်များ"
+  },
+  "author": {
+    "headerText": "Readmal စာရေးသူ၏ စာမျက်နှာ",
+    "storyList": "စာရေးသူ နောက်ဆုံး Story များ",
+    "welcomeText": "စာရေးသူကို ကြိုဆိုပါသည်",
+    "episodeMonthlyCount": "ထည့်သွင်းနိုင်သော အပိုင်းအရေအတွက်"
+  },
+  "category": {
+    "horror": "ခြောက်ခြား",
+    "comedy": "ဟာသ"
+  },
+  "episode": {
+    "number": "အပိုင်း",
+    "ispublished": "တင်တော့မည် ?",
+    "is_published_finished": "တင်ပြီး အပိုင်းဖြစ်သည်",
+    "limitation": "သတ်မှတ် အပိုင်း ကျော်လွန်သဖြင့် bill ထည့်ပြီး အပုဒ်တိုးနိုင်ပါသည်။"
+
+  },
+  "episodeform": {
+    "label": "Episode အသစ်ပြုလုပ်မည်",
+    "labelEdit": "Episode ပြင်ဆင်မည်",
+    "title": "Episode ခေါင်းစဉ်",
+    "description": "အကြောင်းအရာအကျဉ်းချုပ်",
+    "image": "ပုံရွေးတင်မယ်"
+  }
+}
